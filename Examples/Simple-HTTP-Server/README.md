@@ -8,7 +8,7 @@ Type the below code in command promt/terminal to run the program
 
 #output
 
-> Server listening on http://127.0.0.1:8080
+Server listening on http://127.0.0.1:8080
 
 ```
 
