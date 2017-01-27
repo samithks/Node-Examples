@@ -1,7 +1,7 @@
 #Simple HTTP Server
 
 
-Type the below code in command promt/terminal to run the program
+Type the below code in command prompt/terminal to run the program
 
 ```
 > node server.js
