@@ -1,5 +1,11 @@
 #Simple Express Server
 
+Install the dependencies 
+
+```
+> npm install
+
+```
 
 Type the below code in command prompt/terminal to run the program
 
