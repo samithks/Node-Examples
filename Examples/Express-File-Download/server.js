@@ -9,10 +9,6 @@ const config = require('./server.config.js');
 var app = express();
 
 
-// For serving static asseets
-
-app.use(express.static(__dirname + '/public'));
-
 // For downloading the file
 
 app.get('/download', function(req, res) {
